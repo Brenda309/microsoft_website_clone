@@ -81,8 +81,9 @@ display: none;
 }
 .nav-p{
   text-align: center;
-  background-color: blue;
+  background-color: rgb(55, 55, 206);
   padding: 20px;
+  color: white;
 }
 .btn {
 cursor: pointer;
